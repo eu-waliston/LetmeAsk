@@ -29,7 +29,7 @@ export function NewRoom() {
       authrId: user?.id,
     })
 
-    history.push(`/rooms'${firebaseRoom.key}`)
+    history.push(`/rooms/${firebaseRoom.key}`)
   }
 
   return (
