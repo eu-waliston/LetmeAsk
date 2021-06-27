@@ -1,10 +1,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Logo](https://user-images.githubusercontent.com/82295321/123551019-5e04fd80-d746-11eb-9342-c9ce2ff9a7ec.png)
 
-# Letmeask - em desenvolvimento :construction:
 
 ![demo](https://user-images.githubusercontent.com/82295321/123551053-8856bb00-d746-11eb-9fa4-c18501036aa9.gif)
 
-
+# Letmeask - em desenvolvimento :construction:
 
 ### [Aplicação hospedada no Firebase](https://letmeask-fa059.web.app/)
 
